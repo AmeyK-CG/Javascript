@@ -39,6 +39,4 @@ let planet_Name = "Earth";
 
 let currentUserName = "John";
 
-
-
 // Variables Ends
