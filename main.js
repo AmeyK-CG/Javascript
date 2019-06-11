@@ -1,54 +1,44 @@
-// console.log("Connected");
-// console.log( 2 - '4' );
-// console.log( '2' - 5 );
-// console.log( '2' - '7' );
-// console.log( '6' / '2' );
+// Variables Start
+
+let message;
+
+message = "Hello...!"; //stores the string
+
+console.log(message);
 
 
-// let x = 'abc' + ' ' + 'xyz';
+let welcome_Content = "Welcome........";
 
-// console.log(x);
+console.log(welcome_Content);
 
-// let apples = "2";
-// let oranges = "3";
-// console.log( apples + oranges );
+let name = "John", age = 20, city = 'USA'
 
-// let apples = 2;
-// let oranges = 3;
-// console.log( apples + oranges );
+console.log(name,age,city);
 
-// let y = 2 * 2 + 12;// (2*2 =4)(4 +12)
-// console.log(y); //16
+let first_Name = "Amey";
 
-// let m = n = o = 2 * 9 / 3 - 12 + 15;
-// console.log(m);
-// console.log(n);
-// console.log(o); // 2 * 9 = 18 / 3 = 6 // 6 -12 = -6 // -6 + 15 = 9
+console.log(first_Name);
 
-// let a = 1;
-// let b = 2;
+last_Name = 'Kalekar';
 
-// let c = 5 - (a = ++b);
+console.log(last_Name);
 
-// console.log( a ); // 3
-// console.log( c ); // 0
+let full_Name = last_Name + ' ' + first_Name;
 
-// console.log( 2 ** 2 ); //(2 * 2)
-// console.log( 2 ** 3 ); //(2 * 2 * 2)
-// console.log( 2 ** 4 ); //(2 * 2 * 2 * 2)
+console.log(full_Name);
 
+let admin;
+// let name;
 
+name = 'John';
+admin = name;
 
-let counter_Increment = 1;
-counter_Increment++;
-console.log(counter_Increment)
+console.log(admin);
 
+let planet_Name = "Earth";
 
-let c = ++counter_Increment;
-
-
-console.log(c);
+let currentUserName = "John";
 
 
 
-
+// Variables Ends
